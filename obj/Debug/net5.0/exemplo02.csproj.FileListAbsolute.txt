@@ -1,0 +1,15 @@
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/bin/Debug/net5.0/exemplo02.deps.json
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/bin/Debug/net5.0/exemplo02.runtimeconfig.json
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/bin/Debug/net5.0/exemplo02.runtimeconfig.dev.json
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/bin/Debug/net5.0/exemplo02.dll
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/bin/Debug/net5.0/ref/exemplo02.dll
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/bin/Debug/net5.0/exemplo02.pdb
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.csprojAssemblyReference.cache
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.AssemblyInfoInputs.cache
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.AssemblyInfo.cs
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.csproj.CoreCompileInputs.cache
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.dll
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/ref/exemplo02.dll
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.pdb
+/Users/matheusmotta/Desktop/Desenvolvimento Visual/exemplo02/obj/Debug/net5.0/exemplo02.genruntimeconfig.cache
